@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "d52c8155-cc2c-4135-8e84-ee7090c699ae",
+      "nom": "Compaore",
+      "prenom": "Guetawende",
+      "email": "compaore@gmail.com",
+      "password": "$2b$12$LNcMfPC5DNvXU51md4GxvumuyHAP0B0RANqOBRF2cComVQpF3vXqW",
+      "role": "passager",
+      "telephone": null,
+      "isActive": true,
+      "loginAttempts": 0,
+      "lockedUntil": null,
+      "createdAt": "2026-03-24T14:19:33.545Z",
+      "updatedAt": "2026-03-24T14:19:33.545Z",
+      "lastLogin": null
+    }
+  ],
+  "refresh_tokens": [
+    {
+      "id": "40a5ae9f-dbb5-4beb-ad2f-b8dcab78af11",
+      "userId": "d52c8155-cc2c-4135-8e84-ee7090c699ae",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkNTJjODE1NS1jYzJjLTQxMzUtOGU4NC1lZTcwOTBjNjk5YWUiLCJ0eXBlIjoicmVmcmVzaCIsImlhdCI6MTc3NDM2MTk3MywiZXhwIjoxNzc0OTY2NzczLCJhdWQiOiJhdXRoLXN5c3RlbS1jbGllbnQiLCJpc3MiOiJhdXRoLXN5c3RlbSJ9.qDBmt7JvfgP7X97otWSc1IMkohYvJEZwtxYFlmnT0Xo",
+      "expiresAt": "2026-03-31T14:19:33.552Z",
+      "createdAt": "2026-03-24T14:19:33.552Z"
+    }
+  ]
+}

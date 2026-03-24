@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": "db4f0d78-4eeb-4dc9-a914-4f84f77c8bac",
+      "nom": "Admin",
+      "prenom": "Super",
+      "email": "admin@system.com",
+      "password": "$2b$10$0WudVry9l2avIFs0QwxdKuJtrMFJX/kPtqzseZb3T5UnXflo26po.",
+      "role": "admin",
+      "telephone": null,
+      "isActive": true,
+      "loginAttempts": 0,
+      "lockedUntil": null,
+      "createdAt": "2026-03-22T21:42:50.389Z",
+      "updatedAt": "2026-03-22T21:43:33.316Z",
+      "lastLogin": "2026-03-22T21:43:33.316Z"
+    },
+    {
+      "id": "a540735e-f2a8-4b6e-abbe-dd2285e8bf77",
+      "nom": "Diallo",
+      "prenom": "Moussa",
+      "email": "passager@demo.com",
+      "password": "$2b$10$7DJCyp8P3O7KKQxfgcXDru1E1IEHui1fBr1hEH.a8iy1ZDZIoa.Eq",
+      "role": "passager",
+      "telephone": "+22670000001",
+      "isActive": true,
+      "loginAttempts": 0,
+      "lockedUntil": null,
+      "createdAt": "2026-03-22T21:42:50.491Z",
+      "updatedAt": "2026-03-22T21:43:33.816Z",
+      "lastLogin": "2026-03-22T21:43:33.816Z"
+    },
+    {
+      "id": "4ae7ae38-0ebf-472c-86ed-4935b3104212",
+      "nom": "Ouedraogo",
+      "prenom": "Ibrahim",
+      "email": "chauffeur@demo.com",
+      "password": "$2b$10$3FeTYvpcl1OJ5ns2bGy0h.6bKabTHse3Z8zG9SJkPHzbzqjWpNBI2",
+      "role": "chauffeur",
+      "telephone": "+22670000002",
+      "isActive": true,
+      "loginAttempts": 0,
+      "lockedUntil": null,
+      "createdAt": "2026-03-22T21:42:50.594Z",
+      "updatedAt": "2026-03-22T21:42:50.594Z",
+      "lastLogin": null
+    },
+    {
+      "id": "5367b139-e86f-48ca-96c4-dc20902ba3ae",
+      "nom": "Zongo",
+      "prenom": "Adama",
+      "email": "proprietaire@demo.com",
+      "password": "$2b$10$9gfeWJ5gS8uCv0J1pGyRDOXQ9YIOrVcjFzC8ldX9RJt/gPwvHItOO",
+      "role": "proprietaire",
+      "telephone": "+22670000003",
+      "isActive": true,
+      "loginAttempts": 0,
+      "lockedUntil": null,
+      "createdAt": "2026-03-22T21:42:50.692Z",
+      "updatedAt": "2026-03-22T21:42:50.692Z",
+      "lastLogin": null
+    },
+    {
+      "id": "fa3e6816-19d8-42c3-97d2-6c37f80e4c47",
+      "nom": "Compaore",
+      "prenom": "Guetawende",
+      "email": "compaore@gmail.com",
+      "password": "$2b$10$h1I8iPCIxd2CVRNAQYAGaOrv/IKqprhlW74xdkw56rLvzKwA2Ah7e",
+      "role": "passager",
+      "telephone": null,
+      "isActive": true,
+      "loginAttempts": 0,
+      "lockedUntil": null,
+      "createdAt": "2026-03-24T14:10:41.041Z",
+      "updatedAt": "2026-03-24T14:10:41.041Z",
+      "lastLogin": null
+    }
+  ],
+  "refresh_tokens": [
+    {
+      "id": "a1e13ab2-3700-4ebb-a14a-151c3b4cf83e",
+      "userId": "a540735e-f2a8-4b6e-abbe-dd2285e8bf77",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhNTQwNzM1ZS1mMmE4LTRiNmUtYWJiZS1kZDIyODVlOGJmNzciLCJ0eXBlIjoicmVmcmVzaCIsImlhdCI6MTc3NDIxNTgxMywiZXhwIjoxNzc0ODIwNjEzLCJhdWQiOiJhdXRoLXN5c3RlbS1jbGllbnQiLCJpc3MiOiJhdXRoLXN5c3RlbSJ9.Z1QIjBGeXywsx3AfVmIpta_mWO0O4TLUx5RZdYb_cu0",
+      "expiresAt": "2026-03-29T21:43:33.818Z",
+      "createdAt": "2026-03-22T21:43:33.818Z"
+    },
+    {
+      "id": "4e0ffaa3-50f9-4eee-93f3-656e1d8f3c0a",
+      "userId": "db4f0d78-4eeb-4dc9-a914-4f84f77c8bac",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkYjRmMGQ3OC00ZWViLTRkYzktYTkxNC00Zjg0Zjc3YzhiYWMiLCJ0eXBlIjoicmVmcmVzaCIsImlhdCI6MTc3NDIxNTgxNCwiZXhwIjoxNzc0ODIwNjE0LCJhdWQiOiJhdXRoLXN5c3RlbS1jbGllbnQiLCJpc3MiOiJhdXRoLXN5c3RlbSJ9.pIHKyeTC2opkDTsij_CjedgOfriqRbuyou08az7uvEM",
+      "expiresAt": "2026-03-29T21:43:34.032Z",
+      "createdAt": "2026-03-22T21:43:34.032Z"
+    }
+  ]
+}
